@@ -1,0 +1,16 @@
+#20364b -> Dark Blue
+#fcc01f -> Yellow
+#70683b -> transparent yellow
+#ffffff -> white
+#7b7b7b -> grey
+
+
+font -> Poppins 
+spotlight font -> poppins black | fs 37px | lh 42px
+desc font -> poppins light | fs 7.5px | lh 13px
+inpu font -> p light | fs 10px | lh 15
+submit btn font -> p reg | fs 10px | lh auto
+nav font -> p light | |fs 10.5 | lh auto
+nav font active -> p regulr | |fs 10.5 | lh auto | weight arounf 500
+
+nav pad - top 74 | bot -84
